@@ -1,0 +1,4 @@
+*coind*
+!.gitignore
+obj/*.P
+obj/*.o
